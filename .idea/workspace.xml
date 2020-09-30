@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9161a734-7f6e-47f5-b0c4-a81aff29e5be" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1i80eOg3jO0HYV6aFKd7ApvIvvI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="runtest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9161a734-7f6e-47f5-b0c4-a81aff29e5be" name="默认更改列表" comment="" />
+      <created>1601274006182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601274006182</updated>
+      <workItem from="1601274009051" duration="8243000" />
+      <workItem from="1601337762622" duration="8660000" />
+      <workItem from="1601425095498" duration="1005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601274634203">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1601274634203" />
+    <state x="461" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601431779473">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="461" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.877@0.23.1440.877" timestamp="1601431779473" />
+    <state x="457" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601274628349">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="457" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1601274628349" />
+    <state width="1398" height="156" key="GridCell.Tab.0.bottom" timestamp="1601350567639">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="156" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601350567639" />
+    <state width="1398" height="156" key="GridCell.Tab.0.center" timestamp="1601350567639">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="156" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601350567639" />
+    <state width="1398" height="156" key="GridCell.Tab.0.left" timestamp="1601350567638">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="156" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601350567638" />
+    <state width="1398" height="156" key="GridCell.Tab.0.right" timestamp="1601350567639">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="156" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601350567639" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1601446176481">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601446176481" />
+    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1601337815495">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1601337815495" />
+    <state x="414" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1601425117232">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="414" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1601425117232" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1601338011584">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601338011584" />
+  </component>
+</project>
