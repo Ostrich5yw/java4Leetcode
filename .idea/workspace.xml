@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9161a734-7f6e-47f5-b0c4-a81aff29e5be" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +18,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
@@ -77,14 +76,30 @@
       <updated>1601274006182</updated>
       <workItem from="1601274009051" duration="8243000" />
       <workItem from="1601337762622" duration="8660000" />
-      <workItem from="1601425095498" duration="1005000" />
+      <workItem from="1601425095498" duration="1267000" />
     </task>
+    <task id="LOCAL-00001" summary="none">
+      <created>1601446529658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601446529658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="none" />
+    <option name="LAST_COMMIT_MESSAGE" value="none" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#Notifications" timestamp="1601446630468">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1601446630468" />
     <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601274634203">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -97,6 +112,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="457" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1601274628349" />
+    <state x="323" y="64" key="CommitChangelistDialog2" timestamp="1601446711933">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="323" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1601446711933" />
     <state width="1398" height="156" key="GridCell.Tab.0.bottom" timestamp="1601350567639">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -121,6 +140,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1601337815495" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601446612845">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601446612845" />
     <state x="414" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1601425117232">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
