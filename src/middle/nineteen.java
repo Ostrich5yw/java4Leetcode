@@ -1,6 +1,4 @@
-package oldProblem;
-
-import java.util.List;
+package middle;
 
 //class ListNode {
 //    int val;
@@ -42,7 +40,7 @@ import java.util.List;
 //}
 
 //方法二：快慢指针
-import java.util.List;
+
 
 class ListNode19 {
     int val;

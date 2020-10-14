@@ -1,5 +1,4 @@
-package oldProblem;
-import java.util.*;
+package middle;
 
 class ListNode24 {
     int val;

@@ -1,7 +1,4 @@
-package oldProblem;
-import java.util.Deque;
-import java.util.HashMap;
-import java.util.LinkedList;
+package simple;
 
 class ListNode21 {
     int val;

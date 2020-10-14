@@ -1,8 +1,7 @@
-package oldProblem;
+package simple;
 import java.util.Deque;
 import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.Stack;
 
 public class twenty {
     public static void main(String[] args) {
