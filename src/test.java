@@ -7,6 +7,7 @@ public class test {
         System.out.println(t.countAndSay(8));
     }
     public String countAndSay(int n) {
-
+        String res="";
+        return res;
     }
 }
