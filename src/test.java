@@ -1,17 +1,16 @@
-import java.util.*;
 
-/**
- *
- * 不同排序的字符串，也可以转化为char数组进行排序，之后再比较排序后的字符数组是否一致
- *
- * **/
 public class test {
     public static void main(String[] args) {
         test t = new test();
-        System.out.println(t.myPow(2.00000, 10));
+        System.out.println(t.canJump(new int[]{2,3,1,1,4}));
     }
-    public double myPow(double x, int n) {
-        double res = 0;
-        return res;
+    public boolean canJump(int[] nums) {
+        int maxPos = 0;
+        for(int i = 0;i < nums.length;i ++){
+            if(i > maxPos)
+                return false;
+            maxPos = Math.max(maxPos, i + nums[i]);
+        }
+        return true;
     }
 }
