@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9161a734-7f6e-47f5-b0c4-a81aff29e5be" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/middle/fiftyfour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/middle/fiftysix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/oldProblem/fortynine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/fiftyfive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/fiftyfour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/fiftysix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="9161a734-7f6e-47f5-b0c4-a81aff29e5be" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="2020-10-14" />
+        <entry key="$PROJECT_DIR$" value="branch.New" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -127,7 +116,7 @@
       <workItem from="1602743812291" duration="180000" />
       <workItem from="1603082458227" duration="1282000" />
       <workItem from="1603332277918" duration="28213000" />
-      <workItem from="1603847742768" duration="9748000" />
+      <workItem from="1603847742768" duration="10289000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <created>1601446529658</created>
@@ -199,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603435112565</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2020-10-28(56)">
+      <created>1603878250732</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603878250732</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2020-10-28(56)">
+      <created>1603878286199</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603878286199</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +228,8 @@
     <MESSAGE value="2020-10-1" />
     <MESSAGE value="2020-10-14" />
     <MESSAGE value="2020-10-23(49)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-10-23(49)" />
+    <MESSAGE value="2020-10-28(56)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-10-28(56)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="127" key="#Notifications" timestamp="1601446630468">
@@ -254,11 +258,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="550" y="353" width="339" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1601525668526" />
-    <state x="323" y="23" width="918" height="824" key="CommitChangelistDialog2" timestamp="1603878250543">
+    <state x="323" y="23" width="918" height="824" key="CommitChangelistDialog2" timestamp="1603878286055">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603084922007" />
-    <state x="323" y="23" width="860" height="877" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603878250543" />
+    <state x="323" y="23" width="860" height="877" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1603878286055" />
     <state x="183" y="65" key="DiffContextDialog" timestamp="1603084919101">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -295,10 +299,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1601447034082" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603878271387">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603878372685">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603878271387" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603878372685" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1603084371293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
