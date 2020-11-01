@@ -1,13 +1,15 @@
+package middle;
+
 class ListNode {
     int val;
     ListNode next;
     ListNode(int x) { val = x; }
 }
 
-public class test {
+public class sixtyone {
     // Definition for singly-linked list.
     public static void main(String[] args) {
-        test t = new test();
+        sixtyone t = new sixtyone();
         ListNode list = new ListNode(1);
         ListNode head = list;
         for(int i = 2;i <= 5;i ++){
@@ -49,7 +51,7 @@ public class test {
 //        }
         end.next = head;                    //末尾元素指向原头结点，完成新链
         ListNode newFirst = pointer.next;   //pointer之后的节点成为新的头结点
-        pointer.next = null;                
+        pointer.next = null;
 //        while(newFirst != null)
 //        {
 //            System.out.println(newFirst.val);
@@ -59,3 +61,4 @@ public class test {
     }
 
 }
+
