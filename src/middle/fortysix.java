@@ -36,7 +36,7 @@ public class fortysix {
         start ++;               //start 记录从哪一位开始遍历当前的nums数组(nums数组中，在start之前的数字均已加入exist)
         for(int i = start;i < nums.length;i ++){        //遍历还未加入exist的数字
             /**
-             * 广度搜索
+             * 深度搜索
              * **/
             exist.add(nums[i]);                         //新数加入exist并改变nums
             changePos(nums, start, i);

@@ -1,4 +1,4 @@
-package oldProblem;
+package middle;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -35,7 +35,7 @@ public class thirtynine {
                 //对于1，1，2这样的数组，由于题中明确一个数字可以使用n次，所以只需要使用第一个1，之后的1直接跳过
                 continue;
             /**
-             * for循环加递归，有点像广度搜索？existlist.add  递归  exist.remove------这个结构简直就是广度搜索！
+             * for循环加递归，有点像深度搜索？existlist.add  递归  exist.remove------这个结构简直就是深度搜索！
              * **/
             if(temp <= toTarNum) {
                 existlist.add(temp);            //将temp加入当前数组，之后再在此基础上，继续递归
