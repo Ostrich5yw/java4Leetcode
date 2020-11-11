@@ -1,7 +1,11 @@
+package middle;
 
-public class test {
+/**
+ * 其实直接0遍历到数组末尾，如果nums[i]==nums[i+1]次数大于2，则数组向前移，不等，则将次数归1。
+ * **/
+public class eighty {
     public static void main(String[] args) {
-        test t = new test();
+        eighty t = new eighty();
         System.out.println(t.removeDuplicates(new int[]{0,0,1,1,1,1,2,2,2,3,3,3}));
     }
     public int removeDuplicates(int[] nums) {
