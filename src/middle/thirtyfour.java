@@ -9,9 +9,9 @@ public class thirtyfour {
         int[] res = new int[]{-1, -1};
         int p = 0,q = nums.length - 1,mid;
         int markleft = -1, markright = -1;
-        while(p <= q){
+        while(p <= q){              //搜索该元素的起始位置
             mid = (p + q) / 2;
-            if(nums[mid] == target) {
+            if(nums[mid] == target) {           //当搜索到该元素时向左走
                 markleft = mid;
                 q = mid - 1;
             }else if(nums[mid] > target){
@@ -20,9 +20,9 @@ public class thirtyfour {
                 p = mid + 1;
         }
         p = 0; q = nums.length - 1;
-        while(p <= q){
+        while(p <= q){              //搜索改元素的终止位置
             mid = (p + q) / 2;
-            if(nums[mid] == target) {
+            if(nums[mid] == target) {           //当搜索到该元素时向右走
                 markright = mid;
                 p = mid + 1;
             }else if(nums[mid] > target){
