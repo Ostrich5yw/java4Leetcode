@@ -1,14 +1,22 @@
-import java.util.ArrayList;
-import java.util.List;
-
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) { val = x; }
+}
 public class test {
-    List<Integer> list = new ArrayList<>();
     public static void main(String[] args) {
         test t = new test();
-        System.out.println(t.subsetsWithDup(new int[]{1, 2, 2}));
+        ListNode head = new ListNode(1);
+        ListNode list = head;
+        for(int i = 2;i <= 5;i ++){
+            ListNode temp = new ListNode(i);
+            list.next = temp;
+            list = temp;
+        }
+        System.out.println(t.reverseBetween(head, 2, 4));
     }
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        return list;
+    public ListNode reverseBetween(ListNode head, int m, int n) {
+        ListNode newhead = head;
+        return head;
     }
 }
