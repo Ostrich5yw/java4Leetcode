@@ -1,12 +1,15 @@
+package simple;
+
 
 import dataStructure.TreeNode;
+import sun.reflect.generics.tree.Tree;
 
 import java.util.*;
 
-public class test {
+public class p104 {
     Map<Integer, Integer> map = new HashMap<>();
     public static void main(String[] args) {
-        test t = new test();
+        p104 t = new p104();
         /**
          *      32
          *    26  47
@@ -22,12 +25,16 @@ public class test {
         TreeNode bottom3 = new TreeNode(19, null ,bottom4);
         TreeNode left = new TreeNode(26, bottom3, null);
         TreeNode root = new TreeNode(32 , left, right);
-        System.out.println(t.buildTree(new int[]{9,3,15,20,7}, new int[]{9,15,7,20,3}));
+        System.out.println(t.maxDepth(root));
     }
-    public TreeNode recursionTree(int[] inorder, int[] postorder){
-
+    public int recursionDepth(TreeNode root, int depth){
+        if(root == null) return depth - 1;
+        int left = recursionDepth(root.left, depth + 1);
+        int right = recursionDepth(root.right, depth + 1);
+        return Math.max(left, right);
     }
-    public TreeNode buildTree(int[] inorder, int[] postorder) {
-
+    public int maxDepth(TreeNode root) {
+        int depth = 1;
+        return recursionDepth(root, depth);
     }
 }
