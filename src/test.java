@@ -1,17 +1,15 @@
-
 import dataStructure.TreeNode;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class test {
-    Map<Integer, Integer> map = new HashMap<>();
     public static void main(String[] args) {
         test t = new test();
         /**
          *      32
          *    26  47
-         *  19       56
-         *    27    21
+         *  19      56
+         *    27     21
          *         20
          * **/
         TreeNode bottom0 = new TreeNode(20, null, null);
@@ -21,13 +19,27 @@ public class test {
         TreeNode bottom4 = new TreeNode(27, null ,null);
         TreeNode bottom3 = new TreeNode(19, null ,bottom4);
         TreeNode left = new TreeNode(26, bottom3, null);
-        TreeNode root = new TreeNode(32 , left, right);
-        System.out.println(t.buildTree(new int[]{9,3,15,20,7}, new int[]{9,15,7,20,3}));
-    }
-    public TreeNode recursionTree(int[] inorder, int[] postorder){
+        TreeNode root = new TreeNode(32 , null, null);
 
+        t.flatten(root);
     }
-    public TreeNode buildTree(int[] inorder, int[] postorder) {
+    public void recursionTree(TreeNode root, List<TreeNode> list){
+        list.add(root);
+        if(root.left != null) recursionTree(root.left, list);
+        if(root.right != null) recursionTree(root.right, list);
+    }
+    public void flatten(TreeNode root) {
+        if(root != null && (root.left != null || root.right!= null)) {
+            List<TreeNode> res = new ArrayList<>();
+            recursionTree(root, res);
+            TreeNode tt = root;
+            tt.left = null;
+            for (int i = 0; i < res.size(); i++) {
+                tt.right = res.get(i);
+                tt.right.left = null;
+                tt = tt.right;
+            }
+        }
 
     }
 }
