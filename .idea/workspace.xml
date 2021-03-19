@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="MacNew" />
+        <entry key="$PROJECT_DIR$" value="version(new)" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -392,10 +392,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="587" y="310" width="387" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1608296729753" />
-    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2" timestamp="1616136527290">
+    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2" timestamp="1616136555619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1616136527290" />
+    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1616136555619" />
     <state x="499" y="93" key="FileChooserDialogImpl" timestamp="1615440601925">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -432,6 +432,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1483" height="174" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615469998917" />
+    <state x="410" y="58" key="MultipleFileMergeDialog" timestamp="1616136605793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="58" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1616136605793" />
     <state x="236" y="0" key="SettingsEditor" timestamp="1607563659876">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -440,6 +444,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="341" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1616136531588" />
+    <state x="492" y="58" key="git4idea.branch.GitSmartOperationDialog" timestamp="1616136601564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="58" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1616136601564" />
     <state x="0" y="88" key="new project wizard" timestamp="1615440603650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
