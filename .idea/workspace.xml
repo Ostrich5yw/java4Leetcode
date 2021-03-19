@@ -4,10 +4,107 @@
     <list default="true" id="9161a734-7f6e-47f5-b0c4-a81aff29e5be" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/hard/twentythree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/ListNode19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/ListNode24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/eighteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/fiftyfive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/fiftyfour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/fiftynine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/fiftysix$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/fiftysix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/fortysix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/nineteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/sixtyone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/thirtyfour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/thirtysix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/thirtythree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/middle/twentyfour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/eight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/fortyeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/fortyfour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/fortynine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/fortythree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/thirtyone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/twentynine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/oldProblem/twentytwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/ListNode21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/fiftyeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/seventy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/sixtynine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/sixtyseven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/thirtyeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/thirtyfive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/twenty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/twentyeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/twentyone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/twentyseven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/twentysix.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dataStructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hard/twentythree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/p23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/eighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/eighty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/eightytwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/fiftyfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/fiftyfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/fiftynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/fiftysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/forty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/fortysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/nineteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/ninety.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p90.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/ninetyfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/ninetythree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p93.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/seventyeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p78.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/seventyfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/seventyfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/seventynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/seventyone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/seventyseven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p77.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/seventythree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/sixtyfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/sixtyone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/sixtythree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/sixtytwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/thirtyfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/thirtynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/thirtysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/thirtythree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/twentyfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/eightynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p89.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/eightyone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p81.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/eightysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/fortyeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/fortyfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/fortynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/fortythree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/ninetyeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/ninetyfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/ninetyone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p91.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/ninetysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/ninetytwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/thirtyone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/twentynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/twentytwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/eightyeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/eightythree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/fiftyeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/seventy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/sixtynine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/sixtyseven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/sixtysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/thirtyeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/thirtyfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/twenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/twentyeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/twentyone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/twentyseven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/twentysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +117,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -72,6 +170,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.runtest">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oldProblem.p53" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="runtest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="leetcode" />
@@ -87,6 +192,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.runtest" />
       <item itemvalue="Application.tt" />
     </list>
@@ -159,7 +265,12 @@
       <workItem from="1607518882424" duration="1823000" />
       <workItem from="1607560369715" duration="3854000" />
       <workItem from="1608251645845" duration="21859000" />
-      <workItem from="1608510617587" duration="4229000" />
+      <workItem from="1608510617587" duration="5492000" />
+      <workItem from="1609288346015" duration="8703000" />
+      <workItem from="1609375613695" duration="18127000" />
+      <workItem from="1609548722080" duration="5543000" />
+      <workItem from="1615438145070" duration="8131000" />
+      <workItem from="1615508770669" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <created>1601446529658</created>
@@ -308,7 +419,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607564207660</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2020-12-21">
+      <created>1608520529493</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608520529493</updated>
+    </task>
+    <task id="LOCAL-00023" summary="2020-12-21">
+      <created>1608520543709</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1608520543709</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,154 +465,81 @@
     <MESSAGE value="2020-11-20" />
     <MESSAGE value="2020-11-22" />
     <MESSAGE value="2020-12-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-12-10" />
+    <MESSAGE value="2020-12-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-12-21" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="127" key="#Notifications" timestamp="1601446630468">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="127" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1601446630468" />
-    <state x="196" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608517159979">
+    <state x="196" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609380292692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="196" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608517159979" />
-    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1603349430914" />
-    <state x="461" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601431779473">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="461" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.877@0.23.1440.877" timestamp="1601431779473" />
+    <state x="196" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1609380292692" />
     <state x="530" y="54" key="#com.intellij.ide.util.MemberChooser" timestamp="1607562869267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="530" y="54" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607562869267" />
-    <state x="457" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603349429012">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="487" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609380274702">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="487" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1603084330864" />
-    <state x="457" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1603349429012" />
-    <state x="579" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602030350818">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="579" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1602030350818" />
+    <state x="487" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1609380274702" />
     <state x="587" y="310" width="387" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608296729753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="587" y="310" width="387" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1608296729753" />
-    <state x="550" y="353" width="339" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1601525668526" />
-    <state x="424" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605847128662">
+    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2" timestamp="1608520542396">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1605847128662" />
-    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2" timestamp="1608520527268">
+    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608520542396" />
+    <state x="499" y="93" key="FileChooserDialogImpl" timestamp="1615440601925">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608520527268" />
-    <state x="323" y="23" width="860" height="877" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1604231286129" />
-    <state x="183" y="65" key="DiffContextDialog" timestamp="1605101703758">
+    <state x="499" y="93" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615440601925" />
+    <state width="1483" height="137" key="GridCell.Tab.0.bottom" timestamp="1615470098874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="183" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605101703758" />
-    <state x="499" y="43" key="FileChooserDialogImpl" timestamp="1605832972026">
+    <state width="1483" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615470098874" />
+    <state width="1483" height="137" key="GridCell.Tab.0.center" timestamp="1615470098874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="43" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605832972026" />
-    <state width="1483" height="137" key="GridCell.Tab.0.bottom" timestamp="1608519968830">
+    <state width="1483" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615470098874" />
+    <state width="1483" height="137" key="GridCell.Tab.0.left" timestamp="1615470098873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608519968830" />
-    <state width="699" height="156" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604121150759" />
-    <state width="1483" height="137" key="GridCell.Tab.0.center" timestamp="1608519968829">
+    <state width="1483" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615470098873" />
+    <state width="1483" height="137" key="GridCell.Tab.0.right" timestamp="1615470098874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608519968829" />
-    <state width="699" height="156" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604121150758" />
-    <state width="1483" height="137" key="GridCell.Tab.0.left" timestamp="1608519968829">
+    <state width="1483" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615470098874" />
+    <state width="1483" height="174" key="GridCell.Tab.1.bottom" timestamp="1615469998917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608519968829" />
-    <state width="699" height="156" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604121150758" />
-    <state width="1483" height="137" key="GridCell.Tab.0.right" timestamp="1608519968830">
+    <state width="1483" height="174" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615469998917" />
+    <state width="1483" height="174" key="GridCell.Tab.1.center" timestamp="1615469998917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608519968830" />
-    <state width="699" height="156" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604121150758" />
-    <state width="1483" height="174" key="GridCell.Tab.1.bottom" timestamp="1608519577180">
+    <state width="1483" height="174" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1615469998917" />
+    <state width="1483" height="174" key="GridCell.Tab.1.left" timestamp="1615469998917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608519577180" />
-    <state width="1483" height="174" key="GridCell.Tab.1.center" timestamp="1608519577180">
+    <state width="1483" height="174" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1615469998917" />
+    <state width="1483" height="174" key="GridCell.Tab.1.right" timestamp="1615469998917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608519577180" />
-    <state width="1483" height="174" key="GridCell.Tab.1.left" timestamp="1608519577180">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608519577180" />
-    <state width="1483" height="174" key="GridCell.Tab.1.right" timestamp="1608519577180">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608519577180" />
-    <state x="200" y="123" key="MergeDialog" timestamp="1604552566745">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="200" y="123" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604552566745" />
-    <state x="463" y="117" key="MultipleFileMergeDialog" timestamp="1605101832723">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="463" y="117" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1605101832723" />
-    <state x="434" y="184" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1603953368651" />
-    <state x="347" y="51" key="NewModule_or_Project.wizard" timestamp="1605833013985">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="347" y="51" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1605833013985" />
+    <state width="1483" height="174" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615469998917" />
     <state x="236" y="0" key="SettingsEditor" timestamp="1607563659876">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="236" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607563659876" />
-    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604049380449" />
-    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1601447034082">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1601447034082" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1603952993414">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1603952993414" />
-    <state x="498" y="62" key="VCS.ChangeListViewerDialog" timestamp="1605101815342">
+    <state x="341" y="132" key="Vcs.Push.Dialog.v2" timestamp="1608520553285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="62" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1605101815342" />
-    <state x="341" y="132" key="Vcs.Push.Dialog.v2" timestamp="1608520530977">
+    <state x="341" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608520553285" />
+    <state x="0" y="88" key="new project wizard" timestamp="1615440603650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="341" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608520530977" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603880458326" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1603084371293">
+    <state x="0" y="88" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1615440603650" />
+    <state x="411" y="179" width="840" height="636" key="search.everywhere.popup" timestamp="1609550287320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603084371293" />
-    <state x="414" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1604231083207">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="414" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604231083207" />
-    <state x="537" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606041507117">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="537" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606041507117" />
-    <state x="503" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1603332351385" />
-    <state x="497" y="116" key="git4idea.branch.GitSmartOperationDialog" timestamp="1605101829249">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="497" y="116" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1605101829249" />
-    <state x="466" y="181" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877@0.23.1440.877" timestamp="1603953365877" />
-    <state x="97" y="165" key="new project wizard" timestamp="1602162393574">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="97" y="165" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1602162393574" />
-    <state x="411" y="179" width="840" height="636" key="search.everywhere.popup" timestamp="1608519773287">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="411" y="179" width="840" height="636" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608519773287" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601338011584" />
+    <state x="411" y="179" width="840" height="636" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609550287320" />
   </component>
 </project>

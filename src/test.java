@@ -1,45 +1,45 @@
-import dataStructure.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
 public class test {
+    List<List<String>> res = new ArrayList<>();
     public static void main(String[] args) {
         test t = new test();
-        /**
-         *      32
-         *    26  47
-         *  19      56
-         *    27     21
-         *         20
-         * **/
-        TreeNode bottom0 = new TreeNode(20, null, null);
-        TreeNode bottom1 = new TreeNode(21, bottom0, null);
-        TreeNode bottom2 = new TreeNode(56, bottom1, null);
-        TreeNode right = new TreeNode(47, null, bottom2);
-        TreeNode bottom4 = new TreeNode(27, null ,null);
-        TreeNode bottom3 = new TreeNode(19, null ,bottom4);
-        TreeNode left = new TreeNode(26, bottom3, null);
-        TreeNode root = new TreeNode(32 , null, null);
-
-        t.flatten(root);
+        System.out.println(t.partition("aabaa"));
     }
-    public void recursionTree(TreeNode root, List<TreeNode> list){
-        list.add(root);
-        if(root.left != null) recursionTree(root.left, list);
-        if(root.right != null) recursionTree(root.right, list);
-    }
-    public void flatten(TreeNode root) {
-        if(root != null && (root.left != null || root.right!= null)) {
-            List<TreeNode> res = new ArrayList<>();
-            recursionTree(root, res);
-            TreeNode tt = root;
-            tt.left = null;
-            for (int i = 0; i < res.size(); i++) {
-                tt.right = res.get(i);
-                tt.right.left = null;
-                tt = tt.right;
-            }
+    public boolean isPartition(String tt){          //判断输入串是否为回文
+        int start = 0, end = tt.length() - 1;
+        while(start < end){
+            if(tt.charAt(start) != tt.charAt(end))
+                return false;
+            start ++;
+            end --;
         }
-
+        return true;
     }
+    public void sonpartition(String s, int index, List<String> list){               //aabaa     使用快慢指针进行扫描，当扫描到a为回文串，对abaa进行递归，继续搜索
+        if(index >= s.length()){                                                    //再依次对 aa，aabaa进行递归
+            List<String> templist = new ArrayList<>();
+           for(int i = 0;i < list.size();i ++){
+                templist.add(list.get(i));
+           }
+           res.add(templist);
+        }
+        int quick = index + 1, slow = index;
+        while(quick <= s.length()){
+            String temp = s.substring(slow, quick);
+            if(isPartition(temp)){
+                System.out.println(temp);
+                list.add(temp);
+                sonpartition(s, quick, list);
+                list.remove(list.size() - 1);
+            }
+            quick ++;
+        }
+    }
+    public List<List<String>> partition(String s) {
+        sonpartition(s, 0, new ArrayList<String>());
+        return res;
+    }
+
 }
