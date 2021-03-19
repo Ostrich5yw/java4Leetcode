@@ -7,7 +7,7 @@ public class test {
         test t = new test();
         System.out.println(t.partition("aabaa"));
     }
-    public boolean isPartition(String tt){          //判断输入串是否为回文
+    public boolean isPartition(String tt){          //判断输入串是否为回文1
         int start = 0, end = tt.length() - 1;
         while(start < end){
             if(tt.charAt(start) != tt.charAt(end))
