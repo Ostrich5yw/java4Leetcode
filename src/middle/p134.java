@@ -1,12 +1,13 @@
-import dataStructure.GraphNode;
+package middle;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
-public class test {
+public class p134 {
     List<String> res = new ArrayList<>();
     int count = 10000000;
     public static void main(String[] args) {
-        test t = new test();
+        p134 t = new p134();
         int[] gas = new int[]{1, 2, 3, 4, 5};
         int[] cos = new int[]{3, 4, 5, 1, 2};
         System.out.println(t.canCompleteCircuit(gas, cos));
