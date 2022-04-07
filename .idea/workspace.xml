@@ -2,15 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9161a734-7f6e-47f5-b0c4-a81aff29e5be" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalProblem/Sort/insertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalProblem/Sort/radixSort_LSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalProblem/Sort/radixSort_MSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalProblem/Sort/selectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalProblem/Sort/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalProblem/Sort/util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalProblem/findWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hard/p164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hard/p297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/p284.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiThreading/p1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiThreading/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oldProblem/p152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/p160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/p283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/print.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Project1-release.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1-release.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/p24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/p33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/p33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oldProblem/p53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oldProblem/p53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/p20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/p28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/p28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="leetcode" />
@@ -19,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +81,9 @@
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1i80eOg3jO0HYV6aFKd7ApvIvvI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="添加" />
@@ -52,6 +94,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,7 +104,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,9 +125,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="runtest" type="Application" factoryName="Application">
+    <configuration name="insertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalProblem.Sort.insertSort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classicalProblem.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radixSort_LSD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalProblem.Sort.radixSort_LSD" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classicalProblem.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radixSort_MSD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalProblem.Sort.radixSort_MSD" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classicalProblem.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runtest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalProblem.Sort.selectSort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classicalProblem.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiThreading.test" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,9 +206,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.runtest" />
       <item itemvalue="Application.tt" />
+      <item itemvalue="Application.runtest" />
+      <item itemvalue="Application.radixSort_LSD" />
+      <item itemvalue="Application.radixSort_MSD" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.selectSort" />
+      <item itemvalue="Application.insertSort" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.runtest" />
+        <item itemvalue="Application.insertSort" />
+        <item itemvalue="Application.selectSort" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.radixSort_MSD" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -186,7 +308,115 @@
       <workItem from="1618993608372" duration="4155000" />
       <workItem from="1619772301216" duration="1230000" />
       <workItem from="1620203844769" duration="3199000" />
-      <workItem from="1621235315703" duration="4664000" />
+      <workItem from="1621235315703" duration="4714000" />
+      <workItem from="1621242477100" duration="43000" />
+      <workItem from="1623070465211" duration="12121000" />
+      <workItem from="1623748853110" duration="10454000" />
+      <workItem from="1624000241460" duration="26000" />
+      <workItem from="1625101024341" duration="8459000" />
+      <workItem from="1625208396498" duration="5031000" />
+      <workItem from="1625808616876" duration="619000" />
+      <workItem from="1625817056318" duration="8000" />
+      <workItem from="1626608835228" duration="621000" />
+      <workItem from="1628324596045" duration="1777000" />
+      <workItem from="1628406636675" duration="14000" />
+      <workItem from="1628555526414" duration="6400000" />
+      <workItem from="1629270940839" duration="123000" />
+      <workItem from="1629803344698" duration="1474000" />
+      <workItem from="1630028820910" duration="15000" />
+      <workItem from="1630481734762" duration="14157000" />
+      <workItem from="1630629187935" duration="17774000" />
+      <workItem from="1630889685352" duration="8875000" />
+      <workItem from="1631064026916" duration="618000" />
+      <workItem from="1631067558836" duration="2000" />
+      <workItem from="1631076862553" duration="55000" />
+      <workItem from="1631087512910" duration="278000" />
+      <workItem from="1631088473643" duration="4000" />
+      <workItem from="1631194223216" duration="643000" />
+      <workItem from="1631237027602" duration="48000" />
+      <workItem from="1631606927505" duration="962000" />
+      <workItem from="1631668858524" duration="10082000" />
+      <workItem from="1631775789838" duration="48000" />
+      <workItem from="1631778615120" duration="2612000" />
+      <workItem from="1631792587706" duration="15000" />
+      <workItem from="1631882996443" duration="296000" />
+      <workItem from="1631931278485" duration="1957000" />
+      <workItem from="1632303062466" duration="30000" />
+      <workItem from="1632303192527" duration="1322000" />
+      <workItem from="1632638930014" duration="1091000" />
+      <workItem from="1632659723686" duration="149000" />
+      <workItem from="1632712575837" duration="1982000" />
+      <workItem from="1632796235554" duration="9180000" />
+      <workItem from="1632875937625" duration="2901000" />
+      <workItem from="1633652865736" duration="16000" />
+      <workItem from="1633684816841" duration="1508000" />
+      <workItem from="1633738747804" duration="2923000" />
+      <workItem from="1633830140361" duration="6000" />
+      <workItem from="1634001991582" duration="2561000" />
+      <workItem from="1634264900493" duration="2952000" />
+      <workItem from="1634346841161" duration="3482000" />
+      <workItem from="1634722738737" duration="1265000" />
+      <workItem from="1634775958960" duration="1863000" />
+      <workItem from="1634980065004" duration="912000" />
+      <workItem from="1635054469705" duration="3161000" />
+      <workItem from="1635215655899" duration="88000" />
+      <workItem from="1635729978666" duration="1280000" />
+      <workItem from="1635813030535" duration="620000" />
+      <workItem from="1636019911409" duration="1306000" />
+      <workItem from="1636422460047" duration="2596000" />
+      <workItem from="1636507484757" duration="95000" />
+      <workItem from="1636534374441" duration="782000" />
+      <workItem from="1636590331312" duration="2470000" />
+      <workItem from="1636707663505" duration="159000" />
+      <workItem from="1636936638133" duration="2117000" />
+      <workItem from="1637022478250" duration="2400000" />
+      <workItem from="1637109696283" duration="3447000" />
+      <workItem from="1637199458602" duration="1450000" />
+      <workItem from="1637282779590" duration="3611000" />
+      <workItem from="1637368787362" duration="1284000" />
+      <workItem from="1637494309732" duration="1200000" />
+      <workItem from="1637564268432" duration="60000" />
+      <workItem from="1637628332905" duration="3099000" />
+      <workItem from="1637653012048" duration="24000" />
+      <workItem from="1637715767412" duration="1752000" />
+      <workItem from="1637800085698" duration="1454000" />
+      <workItem from="1637887638941" duration="2114000" />
+      <workItem from="1637983265484" duration="4618000" />
+      <workItem from="1638149174111" duration="1565000" />
+      <workItem from="1638265374400" duration="1411000" />
+      <workItem from="1638319380924" duration="1395000" />
+      <workItem from="1638701192671" duration="834000" />
+      <workItem from="1638755605020" duration="181000" />
+      <workItem from="1640597742697" duration="1258000" />
+      <workItem from="1640770417553" duration="48000" />
+      <workItem from="1645578925663" duration="2730000" />
+      <workItem from="1645667795042" duration="15000" />
+      <workItem from="1646103814811" duration="732000" />
+      <workItem from="1646181831506" duration="1442000" />
+      <workItem from="1646277835585" duration="1177000" />
+      <workItem from="1646314669452" duration="624000" />
+      <workItem from="1646353632162" duration="7105000" />
+      <workItem from="1646444857745" duration="1366000" />
+      <workItem from="1646564955255" duration="3426000" />
+      <workItem from="1646612597174" duration="1251000" />
+      <workItem from="1646704711313" duration="66000" />
+      <workItem from="1646787444702" duration="685000" />
+      <workItem from="1646958696456" duration="777000" />
+      <workItem from="1647221330843" duration="2717000" />
+      <workItem from="1647303946940" duration="2239000" />
+      <workItem from="1647306970037" duration="606000" />
+      <workItem from="1647394511348" duration="851000" />
+      <workItem from="1647476843298" duration="1542000" />
+      <workItem from="1647563502153" duration="5807000" />
+      <workItem from="1647652232022" duration="608000" />
+      <workItem from="1647824543254" duration="1463000" />
+      <workItem from="1647911559399" duration="3429000" />
+      <workItem from="1648000341225" duration="763000" />
+      <workItem from="1648082437076" duration="7346000" />
+      <workItem from="1648427256258" duration="1560000" />
+      <workItem from="1649205290342" duration="2376000" />
+      <workItem from="1649209245624" duration="5000" />
+      <workItem from="1649317477659" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <created>1601446529658</created>
@@ -363,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616379471194</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2021-5-17">
+      <created>1621240443713</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1621240443713</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,68 +635,65 @@
     <MESSAGE value="2020-12-21" />
     <MESSAGE value="2021-3-19" />
     <MESSAGE value="2021-3-22" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-3-22" />
+    <MESSAGE value="2021-5-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-5-17" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2" timestamp="1621240415910">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1648084565431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="345" y="0" width="918" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621240415910" />
-    <state x="499" y="93" key="FileChooserDialogImpl" timestamp="1620310078524">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1648084565431" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="93" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620310078524" />
-    <state width="1481" height="377" key="GridCell.Tab.0.bottom" timestamp="1620310080416">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="377" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620310080416" />
-    <state width="1481" height="377" key="GridCell.Tab.0.center" timestamp="1620310080416">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="377" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620310080416" />
-    <state width="1481" height="377" key="GridCell.Tab.0.left" timestamp="1620310080416">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="377" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620310080415" />
-    <state width="1481" height="377" key="GridCell.Tab.0.right" timestamp="1620310080416">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="377" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620310080416" />
-    <state width="1483" height="174" key="GridCell.Tab.1.bottom" timestamp="1616332020538">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616332020538" />
-    <state width="1483" height="174" key="GridCell.Tab.1.center" timestamp="1616332020538">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616332020538" />
-    <state width="1483" height="174" key="GridCell.Tab.1.left" timestamp="1616332020538">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1649207666930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616332020538" />
-    <state width="1483" height="174" key="GridCell.Tab.1.right" timestamp="1616332020538">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1649207666930" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1647569936639">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="174" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616332020538" />
-    <state x="410" y="58" key="MultipleFileMergeDialog" timestamp="1616136605793">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="410" y="58" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1616136605793" />
-    <state x="341" y="132" key="Vcs.Push.Dialog.v2" timestamp="1616379475577">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="341" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1616379475577" />
-    <state x="492" y="58" key="git4idea.branch.GitSmartOperationDialog" timestamp="1616136601564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="492" y="58" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1616136601564" />
-    <state x="0" y="88" key="new project wizard" timestamp="1615440603650">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="0" y="88" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1615440603650" />
-    <state x="411" y="179" width="840" height="636" key="search.everywhere.popup" timestamp="1616377476216">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="411" y="179" width="840" height="636" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616377476216" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1647569936639" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

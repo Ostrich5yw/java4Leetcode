@@ -13,4 +13,15 @@ public class p53 {
         }
         return recMax;
     }
+
+//    public int maxSubArray(int[] nums) {
+//        int []maxNums = new int[nums.length];
+//        System.arraycopy(nums, 0, maxNums, 0, nums.length);
+//        int maxRes = Integer.MIN_VALUE;
+//        for(int i = 1; i < nums.length; i ++)
+//            maxNums[i] = Math.max(maxNums[i - 1] + nums[i],  nums[i]);
+//        for(int x : maxNums)
+//            maxRes = x < maxRes ? maxRes : x;
+//        return maxRes;
+//    }
 }

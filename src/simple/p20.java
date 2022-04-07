@@ -2,6 +2,7 @@ package simple;
 import java.util.Deque;
 import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.Map;
 
 public class p20 {
     public static void main(String[] args) {
@@ -10,24 +11,24 @@ public class p20 {
     }
 
     public boolean isValid(String s) {
-        char temp; int i = 0;
-        HashMap<Character, Character> hashmap = new HashMap<>();
-        hashmap.put('}', '{');hashmap.put(']', '[');hashmap.put(')', '(');
-//        Stack<Character> stack = new Stack<>();
-        Deque<Character> stack = new LinkedList<>();                    //Deque即双端队列，既可接受stack也可接受queue
-        while(i < s.length()){
-            temp = s.charAt(i);
-            System.out.println(temp);
-            if(temp == '{' || temp == '[' || temp == '('){
-                stack.push(temp);
-            }else{
-                if(stack.isEmpty() || stack.pop() != hashmap.get(temp))         //这里需要判断 }} 这种形式，即当temp存在时且进入了else，stack中必须存在且有与其对应的值
+        Map<Character, Character> hashMap = new HashMap<>();
+        hashMap.put('{', '}');
+        hashMap.put('(', ')');
+        hashMap.put('[', ']');
+        LinkedList<Character> stack = new LinkedList<>();
+        for(int i = 0;i < s.length();i ++){
+            if(!stack.isEmpty() && hashMap.get(stack.peek()) == s.charAt(i)){   //如果与栈顶元素对应，则出栈栈顶元素，继续下一个
+                stack.pop();
+            }else {
+                if(!hashMap.containsKey(s.charAt(i))){  //如果不对应，且是})]中的一个，直接false
                     return false;
+                }
+                stack.push(s.charAt(i));        //否则入栈
             }
-            i ++;
         }
-        if(!stack.isEmpty())                                                    //这里判断 { 这种形式
-            return false;
-        return true;
+        if(stack.isEmpty()){
+            return true;
+        }
+        return false;
     }
 }
