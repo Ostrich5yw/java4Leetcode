@@ -30,13 +30,9 @@ public class p43 {
             int tempproduct;int markproduct = 0;  //tempproduct暂时保存num1某位与num2某位乘积的个位，markproduct保存乘积的十位
             for(int j = m - 1;j >= 0;j --){
                 int tempnum2 = num2.charAt(j) - '0';    //tempnum1与tempnum2分别保存num1与num2的某一位
-                if(tempnum2 * tempnum1 + markproduct >= 10) {                   //若乘积加进位大于10
-                    tempproduct = (tempnum2 * tempnum1 + markproduct) % 10;         //7 * 8 =56   则tempproduct = 6,markproduct = 5
-                    markproduct = (tempnum2 * tempnum1 + markproduct) / 10;
-                }else{
-                    tempproduct = (tempnum2 * tempnum1 + markproduct);
-                    markproduct = 0;
-                }
+                tempproduct = (tempnum2 * tempnum1 + markproduct) % 10;         //7 * 8 =56   则tempproduct = 6,markproduct = 5
+                markproduct = (tempnum2 * tempnum1 + markproduct) / 10;
+
                 temptotal.append(tempproduct);
             }
             if (markproduct > 0)                    //别忘了最后一个进位

@@ -14,33 +14,34 @@ import static util.print.printArray1D1;
 public class test {
     public static void main(String[] args) {
         test t = new test();
-        System.out.println(t.search(new int[]{3,1 }, 1));
+
+        System.out.println(t.permute(new int[]{1,2,3}));
+
     }
-    public int search(int[] nums, int target) {
-        int left = 0, right = nums.length - 1;
-        for(;left + 1 <= right && nums[left] < nums[left+1];left ++){}
-        if(left == right){
-            left = 0;
-        }else
-            if(nums[right] >= target){
-                left ++;
-            }else{
-                right = left;
-                left = 0;
-            }
-        while(left <= right){
-            int mid = (left + right) / 2;
-            if(nums[mid] == target){
-                return mid;
-            }
-            if(target < nums[mid]){
-                right = mid - 1;
-            }
-            if(target > nums[mid]){
-                left = mid + 1;
+    public int DFS(List<List<Integer>> res, List<Integer> now, boolean[] marks, int[] nums){
+        if(now.size() == nums.length){
+            List<Integer> list = new ArrayList<>();
+            list.addAll(now);
+            res.add(list);
+            return 0;
+        }
+        for(int i = 0;i < nums.length;i ++){
+            if(!marks[i]){
+                now.add(nums[i]);
+                marks[i] = true;
+                DFS(res, now, marks, nums);
+                now.remove(now.size() - 1);
+                marks[i] = false;
             }
         }
-        return -1;
+        return 0;
     }
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+        List<Integer> now = new ArrayList<>();
+        DFS(list, now, new boolean[nums.length], nums);
+        return list;
+    }
+
 }
 
